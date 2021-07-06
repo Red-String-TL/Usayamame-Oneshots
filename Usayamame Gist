@@ -1,0 +1,40 @@
+{
+  "title": "Collecton of Usayamame's Oneshots",
+  "description": "NSFW Warning! Translated with permission. A collection of oneshot manga from horror mangaka Usayamame. The general theme is horror. There is a NSFW warning due to gore, nudity and adult themes.
+  "author": "@usayamame",
+  "cover": "https://pbs.twimg.com/profile_images/1249046315020894209/xgrjthdn_400x400.png",
+  "chapters": {
+    "1": {
+      "title": "Remembering Grandma's Imaginary Friend",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/mgs1940/"
+      },
+      "last_updated": "1623039137"
+    },
+     "2": {
+      "title": "Night Stroll to a Haunted Building",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/JH9ISME/"
+      },
+      "last_updated": "1624334597"
+    },
+     "3": {
+      "title": "How I Became Interested In the Otherworld",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/Uiwv4fU/"
+      },
+      "last_updated": "1625143845"
+    },
+     "4": {
+      "title": "The Wandering Phantom",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XaMXfrX/"
+      },
+      "last_updated": "1625143845"
+    }
+  }
+}
